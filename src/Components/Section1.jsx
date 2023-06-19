@@ -44,7 +44,7 @@ const Section1 = () => {
                     </div>
                 </div>
 
-                <img src={poster} alt="image" />
+                <img src={poster} alt="iok" />
             </div>
 
         </>
