@@ -7,7 +7,7 @@ import Doubt from './Doubt';
 const FAQ = () => {
 
 
-    const [data, setData] = useState(Questions);
+//     const [data, setData] = useState(Questions);
 
     return (
         <>
