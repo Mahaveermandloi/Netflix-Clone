@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import Questions from "./Questions";
 import { IoMdAdd } from "react-icons/io";
 import { RxCross1 } from "react-icons/rx";
 
